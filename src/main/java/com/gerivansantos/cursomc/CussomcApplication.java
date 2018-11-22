@@ -9,4 +9,6 @@ public class CussomcApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CussomcApplication.class, args);
 	}
+	
+	
 }
